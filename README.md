@@ -20,7 +20,7 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
-
+(https://api.netlify.com/api/v1/badges/a6094517-fa51-4060-a728-9d9b455041bb/deploy-status)(https://app.netlify.com/sites/deportres/deploys)
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -68,4 +68,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a6094517-fa51-4060-a728-9d9b455041bb/deploy-status)](https://app.netlify.com/sites/deportres/deploys)
+
